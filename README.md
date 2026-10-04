@@ -1,136 +1,52 @@
-# 🚀 Gaurav Kadam — 3D Developer Portfolio
+# Madhaw Verma - 3D Portfolio
 
-A modern, interactive **3D developer portfolio** built to showcase my frontend development experience, projects, and technical skills.
+![Portfolio Preview](/public/images/mypicnbg.png)
 
-The portfolio combines **React, TypeScript, Three.js, React Three Fiber, GSAP, WebGL, and interactive 3D experiences** to create a responsive and immersive user experience.
+Welcome to the repository of my personal 3D Interactive Portfolio. This portfolio is built using modern web technologies to provide an immersive, interactive experience, showcasing my skills as a Full Stack & Data Engineer.
 
-## 🌐 Live Portfolio
+## 🚀 About Me
 
-**[Visit My Portfolio](YOUR_LIVE_PORTFOLIO_URL)**
+I am **Madhaw Verma**, a passionate Full Stack Developer based in Indore, Madhya Pradesh, India. I specialize in building responsive web applications, mobile apps, scalable backend systems, and AI-integrated platforms.
 
----
+## 🛠️ Tech Stack
 
-## ✨ Highlights
+- **Frontend:** JavaScript, TypeScript, HTML5, CSS3, React.js, Next.js, Redux, Tailwind CSS, Context API
+- **Mobile:** React Native, Android, iOS, Cross-Platform App Development
+- **Backend:** Node.js, Express.js, REST APIs, Auth, JWT, Java
+- **Database & Cloud:** MongoDB, Mongoose, Supabase, MySQL, Firebase, Redis, Vercel, Linux
+- **AI / ML / Data:** Python, OpenCV, Hugging Face, Jupyter, Prompt Engineering, ChatGPT, Claude, Cursor, GitHub Copilot, Google Gemini
+- **Tools & Architecture:** System Architecture, System Design, Git, GitHub, Docker, Postman, VS Code, Software Quality Assurance
 
-- Interactive **3D / WebGL** experience powered by Three.js
-- React-based component architecture
-- Type-safe development with **TypeScript**
-- Smooth animations and transitions using **GSAP**
-- Smooth scrolling and interactive page transitions
-- Responsive experience across desktop, tablet, and mobile
-- Interactive project and experience sections
-- Modern UI/UX focused on usability and visual interaction
-- Optimized production build with Vite
+## 🏆 Featured Projects
 
----
+1. **AgentForge** - A premium multi-model AI orchestration platform unifying OpenAI, Anthropic, Gemini, and Llama.
+2. **MW CRM (WhatsApp CRM)** - A next-generation platform combining real-time WebSockets, native mobile performance, and AI to deliver a seamless WhatsApp-like CRM experience.
+3. **FitStep - Step Counter** - A premium, offline-first step counter and fitness tracking application.
+4. **GrowFinCap - Stock Market Platform** - A comprehensive stock market and financial advisory platform.
 
-## 🧰 Tech Stack
+## 💻 Running Locally
 
-### Frontend
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
+To run this 3D portfolio on your local machine:
 
-### 3D & Interactive Experience
-- Three.js
-- React Three Fiber
-- React Three Drei
-- WebGL
-- React Three Postprocessing
-- React Three Rapier / Cannon
+```bash
+# 1. Clone the repository
+git clone https://github.com/Madhawverma/3D-Portfolia-.git
 
-### Animation & Interaction
-- GSAP
-- Lenis
-- React Icons
+# 2. Navigate to the project directory
+cd 3D-Portfolia-
 
-### Development & Deployment
-- Vite
-- ESLint
-- Git
-- GitHub
-- Vercel
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+```
+
+## 📬 Contact Me
+
+- **Email:** madhawvearma@gmail.com
+- **LinkedIn:** [Madhaw Verma](https://www.linkedin.com/in/madhawverma18)
+- **WhatsApp:** +91 8770152422
 
 ---
-
-## 📂 Featured Projects
-
-### PromptFlow AI
-
-An AI-powered SaaS productivity platform featuring conversational workflows, prompt management, and interactive interfaces.
-
-**Tech:** React, TypeScript, Zustand, Tailwind CSS, Framer Motion
-
-- AI-powered conversational workflows
-- Prompt management
-- Zustand-based state management
-- API-driven AI interactions
-- Responsive SaaS interface
-
-**[Live Demo](YOUR_PROMPTFLOW_LIVE_URL)** · **[GitHub](https://github.com/gauravv69/promptflow-ai)**
-
----
-
-### Nova AR
-
-A mobile-first WebAR experience for interactive 3D visualization and real-world AR placement.
-
-**Tech:** React, TypeScript, Three.js, WebXR, Tailwind CSS
-
-- Interactive 3D visualization
-- WebAR experiences
-- Responsive React interface
-- Reusable UI components
-- Mobile-focused experience
-
-**[Live Demo](YOUR_NOVA_AR_LIVE_URL)** · **[GitHub](https://github.com/gauravv69/ar-3d-viewer)**
-
----
-
-## 💼 Experience
-
-### Indxo AI
-
-**Jr. Data Analyst — Frontend Development & UI/UX**  
-**Nov 2025 – Present**
-
-Working primarily on frontend development and UI/UX for enterprise web and mobile applications.
-
-- Developed production-grade mobile application features using React Native
-- Built scalable and reusable UI components
-- Developed dashboards and application modules
-- Integrated REST APIs and asynchronous data flows
-- Built data-driven interfaces for MTTR, MTBF, Live Tracking, Digital Thread, and Process Traceability
-
----
-
-## 🧠 Skills
-
-### Frontend
-React.js · React Native · TypeScript · JavaScript · HTML5 · CSS3
-
-### UI & Styling
-Tailwind CSS · Responsive Design · Component-based UI · UI/UX
-
-### State & Data
-Zustand · Context API · REST APIs · Asynchronous Data Handling
-
-### Animation & 3D
-Three.js · React Three Fiber · GSAP · Framer Motion · WebXR · Matter.js
-
-### Tools
-Git · GitHub · Vite · Vercel
-
----
-
-## 📁 Project Structure
-
-```text
-src/
-├── components/
-├── context/
-├── data/
-├── utils/
-└── ...
+*Built with ❤️ by Madhaw Verma*
