@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.npmrc
+
+backup/
+.env
+redoxchess-engine/
+.vercel
+build_output.txt
+build_errors.txt
+
+# Faltu files and videos
+screen-capture*.webm
+*.webm
+Screenshot_*.png
+
+!public/video/video.webm
