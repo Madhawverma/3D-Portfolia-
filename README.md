@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/images/mypicnbg.png" alt="Madhaw Verma" width="150" height="150" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+
   
   <h1>Hi there, I'm Madhaw Verma 👋</h1>
   <h3>Full Stack Developer & AI Enthusiast | Creating Immersive Web & Mobile Experiences</h3>
